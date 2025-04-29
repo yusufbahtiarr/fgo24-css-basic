@@ -1,9 +1,29 @@
-# Dokumentasi
+# HTML CSS Exmaple Project
 
-Aplikasi ini tentang penerapan dasar-dasar html5. dengan menggunakan nodejs. dengan tambahan depedency live-server
+Repositori ini tentang penerapan dasar-dasar HTML5 dan CSS. Website ini berisi profil tentang saya.
 
-## Dependency
-- Live-server : 1.2.2
+## How to run this Project
 
-## Run Project
-Program ini bisa di jalankan di terminal dengan sintak ```npm run dev```
+1. Clone this project
+```
+git clone https://github.com/yusufbahtiarr/fgo24-css-basic.git
+```
+2. Enter the project directory
+```
+cd fgo24-css-basic
+```
+3. Install the Depedencies
+```
+npm install
+```
+4. Run the project
+```
+npm run dev
+```
+5. Project will running on http://localhost:8080
+
+## Dependencies
+
+This project requires Node.js to run. Please ensure Node.js is installed on your machine before proceeding.
+Require Package:
+- live-server : a simple development HTTP server with live reload capability. It is used to simulate a local server environtment for testing and development purposes.
