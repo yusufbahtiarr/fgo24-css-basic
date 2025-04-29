@@ -1,4 +1,4 @@
-# HTML CSS Exmaple Project
+# HTML CSS Example Project
 
 Repositori ini tentang penerapan dasar-dasar HTML5 dan CSS. Website ini berisi profil tentang saya.
 
